@@ -2,16 +2,19 @@
   "name": "chitosystems/silverstripe-watermarkable",
   "description": "Silverstripe Image Watermark",
   "type": "silverstripe-module",
-  "keywords": ["silverstripe", "bootstrap", "twitter", "chosen"],
+  "keywords": ["silverstripe", "Images", "Watermark"],
   "license": "BSD-3-Clause",
-  "authors": [
-    {
-      "name": "memedev",
-    },{
-      "name": "Itayi Patrick Chitovoro",
-      "email": "patrick@chitosystems.com"
-    }
-  ],
+ "authors": [
+		{
+			"name": "memdev",
+			"homepage": "http://www.memdev.de"
+		},
+		{
+			"name": "Itayi Patrick Chitovoro",
+      "email": "patrick@chitosystems.com",
+			"homepage": "http://www.chitosystems.com"
+		}
+	],
   "require":
   {
     "silverstripe/framework": "3.*",
