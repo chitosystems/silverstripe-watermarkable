@@ -1,0 +1,23 @@
+{
+  "name": "chitosystems/silverstripe-imagewatermark",
+  "description": "Silverstripe Image Watermark",
+  "type": "silverstripe-module",
+  "keywords": ["silverstripe", "bootstrap", "twitter", "chosen"],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "memedev",
+    },{
+      "name": "Itayi Patrick Chitovoro",
+      "email": "patrick@chitosystems.com"
+    }
+  ],
+  "require":
+  {
+    "silverstripe/framework": "3.*",
+    "silverstripe/cms": "3.*"
+  },
+  "extra": {
+    "installer-name": "imagewatermark"
+  }
+}
