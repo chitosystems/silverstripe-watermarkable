@@ -1,5 +1,5 @@
 {
-  "name": "chitosystems/silverstripe-imagewatermark",
+  "name": "chitosystems/silverstripe-watermarkable",
   "description": "Silverstripe Image Watermark",
   "type": "silverstripe-module",
   "keywords": ["silverstripe", "bootstrap", "twitter", "chosen"],
